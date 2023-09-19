@@ -1,0 +1,58 @@
+
+body    {
+    background-color:cornflowerblue;
+    
+}  
+
+section.main  {
+    padding: 30px;
+    margin: 10px;
+    border: 3px solid forestgreen;
+
+}
+
+header  {
+    text-align: center;
+}
+
+h1  {
+    font-size: 30px;
+    color: white;
+    padding: 20px;
+    font-style: italic;
+    
+
+}
+
+h2  {
+    size: 10px;
+    color: white;
+    margin: 0 0 20px 0;
+
+}
+
+section {
+    
+    line-height: 1.5;
+    padding: 10px 30px;
+}
+
+p   {
+    size: 8px;
+    color: white;
+}
+
+footer  {
+    text-align: center;
+    color: green;
+
+
+}
+
+a   {
+    color: green;
+}
+
+img {
+    float: right;
+}
